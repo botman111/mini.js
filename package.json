@@ -1,0 +1,13 @@
+{
+  "name": "Wraith",
+  "description": "Wraith bot",
+  "version": "1.0.0",
+  "main": "mini.js",
+  "scripts": {
+    "start": "node mini.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "request": "2.81.0"
+  }
+}
