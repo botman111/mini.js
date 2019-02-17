@@ -1,16 +1,12 @@
 {
-  "name": "mini",
-  "version": "1.0.0",
-  "description": "minigames",
+  "name": "Wraith",
+  "description": "Wraith",
+  "version": "0.0.0",
   "main": "mini.js",
-  "dependencies": {
-    "discord.js": "^11.4.2"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node mini.js"
   },
-  "author": "R3D",
-  "license": "ISC"
+  "dependencies": {
+    "discord.js": "11.4.2"
+  }
 }
